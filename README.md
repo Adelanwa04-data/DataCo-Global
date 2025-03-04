@@ -20,3 +20,10 @@ The primary source of Data used is DataCoSupplyChainDataset.csv. This is an open
   
 - Github for Portofolio Building
 
+## Dataset
+---
+This database includes 3 tables with 103 records;
+- CustomerInfo: This table was created to store customer details. This includes the customerID, customer name, city and state
+- Orders: This table was created to store order transactions. It includes the orderID, order date, qunatity sold, total sales, order status, customerID and productID
+- Product: This table was created to store product details. It includes the productID, orderID, product name and product price. 
+
