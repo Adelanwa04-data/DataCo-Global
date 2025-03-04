@@ -35,7 +35,7 @@ This database includes 3 tables with 103 records;
 ## Exploratory Data Analysis
 ---
 - What are the total sales and revenue trends over the past year?
-![Question1](https://github.com/user-attachments/assets/17a83954-c6ed-43a0-9a48-fa6960198ade)
+![Image](https://github.com/user-attachments/assets/cbf92d19-1025-4c9f-9a55-c6c3959ea8e6)
 
 - Which cities or states generate the highest revenue?
 - What is the customer retention rate, and how many repeat customers do we have?
