@@ -48,6 +48,10 @@ This database includes 3 tables with 103 records;
 ---
 I used a data visualization tools, Power BI for the visual report. 
 [Check it out](https://app.powerbi.com/view?r=eyJrIjoiYzFmY2Q0MDAtYTdkMS00NjRjLWE3MTUtMzUxNjg1MGM5NjQzIiwidCI6IjYxMTdiOTliLWEzN2QtNDY4Yy1iODg2LTE1YmQ1YWViYTVjNCJ9) 
- 
-  
+
+## Summary Findings
+
+- The analysis of total revenue by city and state highlights significant regional disparities in sales performance, with locations such as Caguas and Puerto Rico generating the highest revenue. Customer retention analysis shows a 53.4% rate, indicating that a little over half of the customers make repeat purchases. Order status distribution reveals a high percentage of pending orders (75.7%), which may indicate inefficiencies in order fulfillment or delayed processing, requiring further investigation.  
+
+- Product performance analysis identifies Smartwatches and Nike Men Dri-FIT Victory Golf Polo as top-selling items, suggesting strong consumer demand. Sales trends across months indicate fluctuations in product popularity, necessitating strategic inventory management. Additionally, seasonal revenue analysis reveals a dip in December compared to November, suggesting a potential decline post-Black Friday. Canceled order trends across different cities highlight areas where customer dissatisfaction might be prevalent, emphasizing the need for targeted quality management and service improvements.
 
